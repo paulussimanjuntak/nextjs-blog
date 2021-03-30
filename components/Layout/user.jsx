@@ -43,7 +43,7 @@ const LayoutContainer = ({ children }) => {
   return(
     <>
       <Layout id="components-layout-demo-fixed">
-        <Layout.Header style={{ position: 'fixed', zIndex: 1, width: '100%' }}>
+        <Layout.Header style={{ position: 'fixed', zIndex: 1030, width: '100%' }}>
           <div className="logo">
             <h1>Golang Blog</h1>
           </div>
